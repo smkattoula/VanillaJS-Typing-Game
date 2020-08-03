@@ -8,32 +8,6 @@ const settings = document.getElementById("settings");
 const settingsForm = document.getElementById("settings-form");
 const difficultySelect = document.getElementById("difficulty");
 
-// const words = [
-//   "hello",
-//   "banana",
-//   "airplane",
-//   "mushroom",
-//   "grass",
-//   "sunlight",
-//   "alligator",
-//   "tree",
-//   "firefly",
-//   "blitz",
-//   "oranges",
-//   "watermelon",
-//   "fantasy",
-//   "compassion",
-//   "apple",
-//   "independent",
-//   "formulator",
-//   "radiohead",
-//   "istanbul",
-//   "radiant",
-//   "desert",
-//   "mixolydian",
-//   "warpig",
-// ];
-
 // Init word
 
 let randomWord;
