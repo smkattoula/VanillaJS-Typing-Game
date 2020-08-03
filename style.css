@@ -82,6 +82,7 @@ input {
   width: 300px;
   padding: 12px 20px;
   margin-top: 10px;
+  outline: none;
 }
 
 .score-container {
